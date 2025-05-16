@@ -1,8 +1,5 @@
 <?php
 
-$cetak= print("haloo guys, perkenalkan nama saya rabiatul adawiyah
-lahir di maros tanggal 27 oktober 2009, saat ini menduduki bangku sekolah menengah 
-kejuruan di SMKIT ibnul qayyim makassar");
-echo $cetak
+print "hloo nama saya adawiyah dari smkit ibnul qayyim";
 
-?>
+ echo "hloo nama saya rabiatul adawiyah dari smkit ibnul qayyim";

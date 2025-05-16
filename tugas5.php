@@ -1,8 +1,12 @@
-----------------------------------------------------------------------
+<?php
 
-my $fh = IO::File->new($libnet_cfg_out, "w") or
-	die "Cannot create '$libnet_cfg_out': $!";
+$nilai_sejarah= 80;
+$nilai_pplg= 76;
 
-print "Writing $libnet_cfg_out\n";
-
-pr
+if ($nilai_sejarah >= 80 && $nilai_pplg >=70){
+    echo "selamat!!, kamu lulus";
+}
+else{
+    echo "belajar lebih giat";
+}
+?>

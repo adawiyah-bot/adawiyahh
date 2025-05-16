@@ -1,4 +1,5 @@
 <?php
 
-$nadiapuasa:false;
-$nadiatidakpuasa:true;
+$nama= "adawiyah";
+
+echo var_dump("$nama");
